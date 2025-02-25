@@ -5,6 +5,9 @@
         "all"
       ]
     },
+    "copy-from-recipe": {
+      "config/": "%CONFIG_DIR%/"
+    },
     "files": {
       "config/packages/php_alchemist_doctrine_behaviors.yaml": {
         "contents": [
