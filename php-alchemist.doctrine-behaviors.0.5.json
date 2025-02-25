@@ -1,0 +1,20 @@
+{
+  "manifests": {
+    "bundles": {
+      "PHPAlchemist\\Bundle\\DoctrineBehaviors\\": [
+        "all"
+      ]
+    },
+    "files": {
+      "config/packages/php_alchemist_doctrine_behaviors.yaml": {
+        "contents": [
+          "php_alchemist_doctrine_behaviors:",
+          "  decision_service: ~",
+          ""
+        ],
+        "executable": false
+      }
+    }
+  },
+  "ref": "92b60d3b668fce60beeca72fde43c174d59872c3"
+}

@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "php-alchemist/doctrine-behaviors": [
+      "0.5"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/PHP-Alchemist/symfony-recipes",
+    "origin_template": "{package}:{version}@github.com/PHP-Alchemist/symfony-recipes:main",
+    "recipe_template": "https://api.github.com/repos/PHP-Alchemist/symfony-recipes/contents/{package_dotted}.{version}.json"
+  }
+}
