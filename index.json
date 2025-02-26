@@ -1,4 +1,7 @@
 {
+  "aliases": {
+    "doctrine-behaviors": "php-alchemist/doctrine-behaviors"
+  },
   "recipes": {
     "php-alchemist/doctrine-behaviors": [
       "0.1"
