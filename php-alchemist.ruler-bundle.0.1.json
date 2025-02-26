@@ -1,0 +1,27 @@
+{
+  "manifests": {
+    "php-alchemist/ruler-bundle": {
+      "manifest": {
+        "bundles": {
+          "PHPAlchemist\\RulerBundle\\": [
+            "all"
+          ]
+        },
+        "copy-from-recipe": {
+          "config/": "%CONFIG_DIR%/"
+        }
+      },
+      "files": {
+        "config/packages/php_alchemist_ruler.yaml": {
+          "contents": [
+            "php_alchemist_ruler:",
+            "  ruler:",
+            "    operators: ~"
+          ],
+          "executable": false
+        }
+      },
+      "ref": "9229d52a5291215a7ad71cc399c5d49477cd3aa4"
+    }
+  }
+}

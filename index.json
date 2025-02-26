@@ -1,9 +1,13 @@
 {
   "aliases": {
-    "doctrine-behaviors": "php-alchemist/doctrine-behaviors"
+    "doctrine-behaviors": "php-alchemist/doctrine-behaviors",
+    "ruler-bundle": "php-alchemist/ruler-bundle"
   },
   "recipes": {
     "php-alchemist/doctrine-behaviors": [
+      "0.1"
+    ],
+    "php-alchemist/ruler-bundle": [
       "0.1"
     ]
   },

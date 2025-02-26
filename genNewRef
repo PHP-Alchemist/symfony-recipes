@@ -1,0 +1,5 @@
+#!/usr/bin/env php
+<?PHP
+
+echo bin2hex(random_bytes(20));
+echo "\n";
